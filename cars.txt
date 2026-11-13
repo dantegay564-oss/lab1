@@ -1,0 +1,6 @@
+Sedan;Toyota;Camry;2022;210;7.5;2500000
+Hatchback;Kia;Rio;2021;190;6.4;1500000
+Suv;Toyota;RAV4;2023;200;8.1;3200000
+Sedan;Skoda;Octavia;2020;220;6.8;1900000
+Hatchback;Volkswagen;Golf;2022;205;6.2;2300000
+Suv;Hyundai;Tucson;2021;195;8.5;2800000
